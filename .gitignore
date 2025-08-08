@@ -2,8 +2,15 @@
 *.d
 
 .vs
-*x64/
-*x86/
+*/SQLTest/x64/
+*/SQLTest/x86/
+
+SQLTest/x64/Debug/sqlite3.dll
+
+SQLTest/x64/Release/sqlite3.dll
+
+SQLTest-ut/x64/
+SQLTest-ut/x86/
 
 # Compiled Object files
 *.slo
