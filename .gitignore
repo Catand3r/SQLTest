@@ -9,6 +9,10 @@ SQLTest/x64/Debug/sqlite3.dll
 
 SQLTest/x64/Release/sqlite3.dll
 
+SQLTest/x64/Debug/*.pdb
+
+SQLTest/x64/Release/*.pdb
+
 SQLTest-ut/x64/
 SQLTest-ut/x86/
 
@@ -26,7 +30,6 @@ SQLTest-ut/x86/
 *.ilk
 
 # Debugger Files
-*.pdb
 
 # Compiled Dynamic libraries
 *.so
